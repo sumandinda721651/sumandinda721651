@@ -23,26 +23,32 @@
 
 ---
 
+## 🧠 Problem Solving
+⚡ Solving problems using **C & Python**  
+📈 Continuously improving problem-solving skills 
+
+---
+
 ## 🚀 Featured Projects
+
+### 🟢 Portfolio Website
+💻 Personal developer portfolio showcasing skills & projects  
+🎨 Modern UI with clean design & smooth layout 
+🔗 **Live Demo:**  
+
+---
 
 ### 🔹 Justice Alliance App
 💡 UI-focused platform with modern design  
 🎯 Clean layout + responsive interface  
-🔗  
-
----
-
-### 🔹 Weather Dashboard
-🌦️ Real-time weather app using API  
-⚡ Dynamic UI updates  
-🔗  
+🔗 **Live Demo:**
 
 ---
 
 ### 🔹 E-Commerce Website (Flipkart Style)
 🛒 Fully responsive shopping UI  
 🔥 Advanced layout & product sections  
-🔗 ecommerce-app-pi-swart.vercel.app
+🔗  **Live Demo:**ecommerce-app-pi-swart.vercel.app
 
 ---
 
