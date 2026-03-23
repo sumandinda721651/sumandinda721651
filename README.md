@@ -28,14 +28,14 @@
 ### 🔹 Justice Alliance App
 💡 UI-focused platform with modern design  
 🎯 Clean layout + responsive interface  
-🔗 Add Live Link Here  
+🔗  
 
 ---
 
 ### 🔹 Weather Dashboard
 🌦️ Real-time weather app using API  
 ⚡ Dynamic UI updates  
-🔗 Add Live Link Here  
+🔗  
 
 ---
 
