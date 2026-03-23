@@ -48,7 +48,7 @@
 ### 🔹 E-Commerce Website (Flipkart Style)
 🛒 Fully responsive shopping UI  
 🔥 Advanced layout & product sections  
-🔗  **Live Demo:**ecommerce-app-pi-swart.vercel.app
+🔗  **Live Demo:** ecommerce-app-pi-swart.vercel.app
 
 ---
 
