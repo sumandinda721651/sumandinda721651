@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,msoffice" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
 
 ---
@@ -46,24 +46,11 @@
 
 ---
 
-## 📊 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumandinda721651&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumandinda721651&theme=tokyonight&border_radius=10" />
-</p>
 
----
 
 ## 📈 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumandinda721651&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
-
----
-
-## 🔥 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumandinda721651&theme=tokyo-night" />
 </p>
 
 ---
