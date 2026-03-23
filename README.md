@@ -33,7 +33,7 @@
 
 ### 🟢 Portfolio Website
 💻 Personal developer portfolio showcasing skills & projects  
-🎨 Modern UI with clean design & smooth layout 
+🎨 Modern UI with clean design & smooth layout   
 🔗 **Live Demo:**  
 
 ---
