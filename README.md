@@ -38,10 +38,10 @@
 
 ---
 
-### 🔹 Justice Alliance App
-💡 UI-focused platform with modern design  
+### 🔹 QuickHire - Find Jobs Easily
+💡 UI-focused Job searching platform with modern design  
 🎯 Clean layout + responsive interface  
-🔗 **Live Demo:**
+🔗 **Live Demo:*https://quickhire-job-portal-xi.vercel.app/*
 
 ---
 
@@ -53,13 +53,6 @@
 ---
 
 
-
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumandinda721651&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
-
----
 
 ## 🏆 Achievements & Goals
 🏅 Building strong frontend projects  
