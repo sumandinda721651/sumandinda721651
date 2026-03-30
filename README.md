@@ -49,6 +49,7 @@
 🛒 Fully responsive shopping UI  
 🔥 Advanced layout & product sections  
 🔗  **Live Demo: *https://ecommerce-app-pi-swart.vercel.app/* 
+
 ---
 
 
