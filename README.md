@@ -41,14 +41,14 @@
 ### 🔹 QuickHire - Find Jobs Easily
 💡 UI-focused Job searching platform with modern design  
 🎯 Clean layout + responsive interface  
-🔗 **Live Demo: *https://quickhire-job-portal-xi.vercel.app/*
+🔗 **Live Demo:** *https://quickhire-job-portal-xi.vercel.app/*
 
 ---
 
 ### 🔹 E-Commerce Website (Flipkart Style)
 🛒 Fully responsive shopping UI  
 🔥 Advanced layout & product sections  
-🔗  **Live Demo: *https://ecommerce-app-pi-swart.vercel.app/* 
+🔗  **Live Demo:**  *https://ecommerce-app-pi-swart.vercel.app/* 
 
 ---
 
